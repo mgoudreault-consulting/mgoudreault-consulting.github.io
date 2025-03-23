@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=0b1da1c826141dba03d2945fc643c0ca95731746">
+    <link rel="stylesheet" href="/assets/css/style.css?v=6952715d158b10a474b35b0b5fe19415d71bf911">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
