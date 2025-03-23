@@ -8,14 +8,14 @@
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="CQ CQ CQ A Radio Challenge" />
 <meta property="og:locale" content="en_US" />
-<link rel="canonical" href="http://localhost:4000/404.html" />
-<meta property="og:url" content="http://localhost:4000/404.html" />
+<link rel="canonical" href="http://localhost:4000/home.md" />
+<meta property="og:url" content="http://localhost:4000/home.md" />
 <meta property="og:site_name" content="CQ CQ CQ A Radio Challenge" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="CQ CQ CQ A Radio Challenge" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","headline":"CQ CQ CQ A Radio Challenge","url":"http://localhost:4000/404.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","headline":"CQ CQ CQ A Radio Challenge","url":"http://localhost:4000/home.md"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -49,26 +49,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+      <p>Test 123</p>
 
 
       <footer class="site-footer">
