@@ -1,3 +1,7 @@
+---
+layout: default 
+---
+
 Below is a template event schedule that can be used for planning your activity. This schedule should be tailored to the venue and audience. Organisers should adjust the schedule and delivery to the needs and interests of their participants
 
 
